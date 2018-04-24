@@ -52,6 +52,7 @@ Multiply() {
         <button onClick={this.Multiply}>Pokaż wynik</button>
         <h1>Wynik potęgowania to {this.state.multiplication} </h1>
         <p>{myArray.join("*")}</p>
+        <p>Sprawdzenie gita</p>
 
       </div>
     )
